@@ -26,8 +26,8 @@ Data Preprocessing – Handling missing values, encoding categorical data, scali
 Exploratory Data Analysis (EDA) – Visualizing patterns, correlations, and trends.
 Model Building – Training models like:
 
-Decision Tree Regressor
-Random Forest Regressor
+Decision Tree Regressor ,
+Random Forest Regressor ,
 Model Evaluation – Using metrics like MAE, MSE, RMSE, and R² score.
 Prediction & Visualization – Predicting future sales and plotting results.
 
